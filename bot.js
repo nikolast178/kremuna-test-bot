@@ -1,7 +1,6 @@
 /*
- * Discord Bot Builder Bot
+ * Discord Bot Kremmuna
  * Version 1.2.0
- * Robert Borghese
  */
 
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
