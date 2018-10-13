@@ -1,1 +1,1 @@
-[null,{"name":"game","permissions":"KICK_MEMBERS","restriction":"2","actions":[{"gameName":"with Mr. Pscyhopath","gameLink":"","name":"Set Bot Game"},{"gameName":"with BG-GAMER","gameLink":"","name":"Set Bot Game"}]},{"name":"help","permissions":"NONE","restriction":"1","actions":[]}]
+[null,{"name":"game","permissions":"KICK_MEMBERS","restriction":"2","actions":[{"gameName":"Mr. Pscyhopath","gameLink":"","name":"Set Bot Game"},{"gameName":"with BG-GAMER","gameLink":"","name":"Set Bot Game"}]},{"name":"help","permissions":"8","restriction":"1","actions":[]}]
