@@ -1,6 +1,6 @@
 {
-	"name": "Тест бот за дискорд",
-	"author": "Никола",
+	"name": "Kremmuna",
+	"author": "Nikola Stoyanov",
 	"main": "bot.js",
 	"version": "1.2.9",
 	"dependencies": {
